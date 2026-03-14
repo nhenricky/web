@@ -12,7 +12,7 @@ ui.markdown('Introdução à Teologia').classes('text-2xl font-bold text-center 
 
 with ui.column().classes('w-full items-center'):
 
-    with ui.card().classes('w-[650px] p-6'):
+    with ui.card().classes('w-[350px] p-6'):
         ui.label(
             'O termo "teologia" não aparece na Bíblia. Surgiu na Grécia antiga, '
             'mas o seu conceito epistemológico é encontrado nas páginas das '
