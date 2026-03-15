@@ -3,7 +3,6 @@ from nicegui import ui
 #Avtar oficial and Links
 ui.dark_mode().enable()
 ui.avatar('img:https://nicegui.io/logo_square.png', color='blue-5')
-ui.link('PDF - Teologia Bíblica da Criação', 'https://ultimato.com.br/file/ebooks/ebook_teo_criacao.pdf')
 ui.link('Definição de Teologia', 'https://pt.wikipedia.org/wiki/Teologia')
 ui.link('Teologia Bíblica - Wikipédia', 'https://pt.wikipedia.org/wiki/Teologia_b%C3%ADblica')
 
